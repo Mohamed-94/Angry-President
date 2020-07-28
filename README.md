@@ -16,7 +16,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-[https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en](Google Play Services)
+[Google Play Services](https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en)
 
 ### Log Data
 

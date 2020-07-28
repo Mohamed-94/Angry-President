@@ -6,7 +6,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at [Angry President] unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Angry President unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
 
@@ -16,7 +16,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-(https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en)[Google Play Services]
+[https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en](Google Play Services)
 
 ### Log Data
 
@@ -58,4 +58,4 @@ This policy is effective as of 2020-07-28
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [nestedzeros@gmail.com].
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at nestedzeros@gmail.com
